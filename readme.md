@@ -8,7 +8,7 @@ I build systems from **frontend → backend → AI → infrastructure**, with a 
 
 [![GitHub Handle](https://img.shields.io/badge/github-coqfu-181717?style=flat-square&logo=github)](https://github.com/coqfu)
 [![X Profile](https://img.shields.io/badge/x-%40coqfu-000000?style=flat-square&logo=x)](https://x.com/coqfu)
-
+[![Portfolio](https://img.shields.io/badge/C-%40coqfu-000000?style=flat-square&logo=x)](https://coqfu.vercel.app/)
 </div>
 
 ---
